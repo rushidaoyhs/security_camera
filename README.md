@@ -3,6 +3,6 @@ Security Camera that tracks motion
 
 Hardware:
 
--Arduino
--Servo
--band
+*Arduino
+*Servo
+*band
