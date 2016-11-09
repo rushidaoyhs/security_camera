@@ -4,6 +4,8 @@ Security Camera that tracks motion
 
 [Arduino project hub example](https://create.arduino.cc/projecthub/lindsi8784/motion-following-motorized-camera-base-61afeb?ref=search&ref_id=motion%20camera&offset=0) 
 
+[Motion Sensor PIR tutorial](http://www.instructables.com/id/PIR-Motion-Sensor-Tutorial/?ALLSTEPS)
+
 [tracks a green ball](https://www.youtube.com/watch?v=O6j02lN5gDw)
 
 
