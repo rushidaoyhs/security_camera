@@ -1,11 +1,8 @@
 # security_camera
 Security Camera that tracks motion
 
-Hardware:
 
-* Arduino
-* Servo
-* band
+[Arduino project hub example](https://create.arduino.cc/projecthub/lindsi8784/motion-following-motorized-camera-base-61afeb?ref=search&ref_id=motion%20camera&offset=0) 
 
 [tracks a green ball](https://www.youtube.com/watch?v=O6j02lN5gDw)
 
